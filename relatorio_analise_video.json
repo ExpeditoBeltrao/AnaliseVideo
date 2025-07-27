@@ -1,0 +1,21 @@
+{
+    "Total de frames analisados": 1108,
+    "Total de anomalias (atividade 'desconhecida')": 173,
+    "Distribuição de emoções": {
+        "neutral": 417,
+        "sad": 554,
+        "angry": 119,
+        "fear": 272,
+        "happy": 277,
+        "surprise": 48,
+        "disgust": 1
+    },
+    "Distribuição de atividades": {
+        "perfil": 631,
+        "sorriso/careta": 165,
+        "acenando": 13,
+        "desconhecida": 173,
+        "dancando": 52,
+        "deitado": 74
+    }
+}
